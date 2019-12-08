@@ -85,11 +85,10 @@ Publications
    # {% include archive-single-cv.html %}
   #{% endfor %}</ul>
 
-Extra-curricular activities
+Leadershio and extra-curricular activities
 ====== 
 * Mental-health czar at DGP lab
   * University of Toronto, Sept 2019 - present
-
 * HCI meeting coordinator at DGP lab
     * University of Toronto, Sept 2019 - present
 * Volunteer work at Imam Ali Relief Sociey (NGO)
@@ -103,18 +102,18 @@ Extra-curricular activities
 * Active member of editorial board of Biotech Magazine (the official magazine of Iranian Society of Biomedical Engineering, student branch)
   * University of Tehran, Iran, Jan 2014 - Sept 2016 
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+# <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
