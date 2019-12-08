@@ -40,7 +40,7 @@ Technical and soft skills
 Honors and awards
 ======
 * Faculty of Arts and Science Recognition of Excellence Award, U of T, Sept 2019
- (This award is offered to only one or two incoming PhD students in the Department of Computer Science at U of T who has demonstrated excellence in their academic and research endeavours)
+  * (This award is offered to only one or two incoming PhD students in the Department of Computer Science at U of T who has demonstrated excellence in their academic and research endeavours)
 * National Foundation of Elites Scholarship, Iran, 2011 - 2015
 * Silver medalist in National Astronomy Olympiad, Iran, 2010
 * Member of National Foundation of Elites, Iran, 2010 - present
