@@ -81,9 +81,6 @@ Experiences
 Publications
 ======
   * The Efficacy of Meditation on the Brain-Computer Interface in the Pediatric Context, M. Mokhberi and T. Chau, In preparation
-  #<ul>{% for post in site.publications %}
-   # {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
 
 Leadershio and extra-curricular activities
 ====== 
