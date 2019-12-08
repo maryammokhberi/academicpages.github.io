@@ -3,12 +3,11 @@ permalink: /
 title: "Maryam Mokhberi"
 excerpt: "About me"
 author_profile: true
-font-size: 8pt
 redirect_from: 
   - /about/
   - /about.html
 ---
- <font size="6"> 
+ <font size="3"> 
 I am a first-year Ph.D. student in the Department of Computer Science, University of Toronto, working under the supervision of Dr. Ishtiaque Ahmed. I am passionate about employing Science, Technology, Engineering, and Math (STEM) to understand and fight the socio-economic problems of the marginalized communities, among which are poverty, unemployment, domestic violence, and different aspects of inequality. As well, I am interested in the interaction of AI and society, AI for social good, and ethics of AI. I am also involved in using computing and web resources to make NGOs more transparent and productive, and the donation process more impactful.
 
 Before joining the department of CS at U of T, I was working in the Rotman Research Institute under the supervision of Dr. Stephen Strother and Dr. Steve Arnott. There, I developed a converter pipeline for the data management system of the Ontario Brain Insititute and converted their extensive MRI imaging database to the new globally defined Brain Imaging Data Structure (BIDS). I was also a memeber of the data curation team, helping in the development and application of multivariate statistical tools for outlier detection of complex data.
