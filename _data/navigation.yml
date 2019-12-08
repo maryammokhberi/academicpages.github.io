@@ -11,8 +11,8 @@ main:
   
   - title: "CV"
     url: /cv/
-  - title: "Significant Projects"
-    url: /SignificantProjects/
+#  - title: "Significant Projects"
+#   url: /SignificantProjects/
         
 #  - title: "Blog Posts"
 #   url: /year-archive/
