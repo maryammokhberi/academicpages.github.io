@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+• Ph.D. in Computer Science, University of Toronto Sept 2019 - present
+Supervisor: Dr. Syed Ishtiaque Ahmed
+• M.A.Sc. in Biomedical Engineering, University of Toronto Sept 2015 - Jan 2018
+Supervisor: Dr. Tom Chau GPA: 3.93/4
+• Collaborative Program in Neuroscience, University of Toronto Sept 2016 - Jan 2018
+Supervisor: Dr. Tom Chau
+• B.Sc. in Electrical Engineering, University of Tehran, Iran Sept 2011 - Aug 2015
+Supervisor: Dr. Fariba Bahrami GPA: 16.29/20
 
 Work experience
 ======
