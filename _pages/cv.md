@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<font size="3">
+
   
 Education
 ======
@@ -100,4 +100,3 @@ Leadership and extra-curricular activities
 * Active member of editorial board of Biotech Magazine (the official magazine of Iranian Society of Biomedical Engineering, student branch)
   * University of Tehran, Iran, Jan 2014 - Sept 2016 
   
-  </font>
