@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-  
+<font size="3">  
 Education
 ======
-* Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
-  * Supervisor: Dr. Syed Ishtiaque Ahmed
-
-* M.A.Sc. in Biomedical Engineering, University of Toronto, Sept 2015 - Jan 2018
-  * Supervisor: Dr. Tom Chau GPA: 3.93/4
-
+* Ph.D. in Computer Science, University of Toronto, Sept 2019 - present <br />
+  * Supervisor: Dr. Syed Ishtiaque Ahmed <br />
+<br />
+* M.A.Sc. in Biomedical Engineering, University of Toronto, Sept 2015 - Jan 2018 <br />
+  * Supervisor: Dr. Tom Chau GPA: 3.93/4 <br />
+<br />
 * Collaborative Program in Neuroscience, University of Toronto, Sept 2016 - Jan 2018
   * Supervisor: Dr. Tom Chau
 
@@ -100,3 +100,4 @@ Leadership and extra-curricular activities
 * Active member of editorial board of Biotech Magazine (the official magazine of Iranian Society of Biomedical Engineering, student branch)
   * University of Tehran, Iran, Jan 2014 - Sept 2016 
   
+</font>
