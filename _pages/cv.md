@@ -23,17 +23,19 @@ Education
 * B.Sc. in Electrical Engineering, University of Tehran (Iran), Sept 2011 - Aug 2015
   * Supervisor: Dr. Fariba Bahrami GPA: 16.29/20
 
-Work experience
+Technical and soft skills
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Computer languages
+  * Python • • • • ◦ MATLAB • • • • ◦ R • • • ◦ ◦ C • • • ◦ ◦
+* Machine learning tools 
+  * SKlearn • • • • ◦ Numpy • • • • ◦ Matplotlib • • • • ◦
+* General skills 
+  * Git • • • • • LATEX• • • • ◦ Bash • • • ◦ ◦ Docker • • • ◦ ◦
+* Soft skills 
+  * Quick learner, emotionally intelligent, have a passion for social good
+* Neuroscience & health IT
+  * Experienced in brain data management & analysis platforms
+  
   
 Skills
 ======
