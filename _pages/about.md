@@ -3,7 +3,7 @@ permalink: /
 title: "Maryam Mokhberi"
 excerpt: "About me"
 author_profile: true
-font size="3"
+font size: "3"
 redirect_from: 
   - /about/
   - /about.html
