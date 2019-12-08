@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<font size="3">
+  
 Education
 ======
 * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
@@ -98,3 +99,5 @@ Leadership and extra-curricular activities
   * ECE department, University of Tehran, Sept 2012- Aug 2015
 * Active member of editorial board of Biotech Magazine (the official magazine of Iranian Society of Biomedical Engineering, student branch)
   * University of Tehran, Iran, Jan 2014 - Sept 2016 
+  
+  </font>
