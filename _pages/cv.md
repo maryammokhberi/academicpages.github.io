@@ -82,7 +82,7 @@ Publications
 ======
   * The Efficacy of Meditation on the Brain-Computer Interface in the Pediatric Context, M. Mokhberi and T. Chau, In preparation
 
-Leadershio and extra-curricular activities
+Leadership and extra-curricular activities
 ====== 
 * Mental-health czar at DGP lab
   * University of Toronto, Sept 2019 - present
@@ -98,19 +98,3 @@ Leadershio and extra-curricular activities
   * ECE department, University of Tehran, Sept 2012- Aug 2015
 * Active member of editorial board of Biotech Magazine (the official magazine of Iranian Society of Biomedical Engineering, student branch)
   * University of Tehran, Iran, Jan 2014 - Sept 2016 
-  
-#Talks
-#======
-# <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-# Currently signed in to 43 different slack teams
