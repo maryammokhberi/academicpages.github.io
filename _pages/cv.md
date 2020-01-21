@@ -12,7 +12,6 @@ redirect_from:
 
 Education
 ======
-<font size="3">
 * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
   * Supervisor: Dr. Syed Ishtiaque Ahmed 
 
@@ -24,7 +23,6 @@ Education
 
 * B.Sc. in Electrical Engineering, University of Tehran (Iran), Sept 2011 - Aug 2015
   * Supervisor: Dr. Fariba Bahrami
- </font>
 
 Technical and soft skills
 ======
