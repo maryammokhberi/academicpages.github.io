@@ -25,6 +25,7 @@ Education
 
 * B.Sc. in Electrical Engineering, University of Tehran (Iran), Sept 2011 - Aug 2015
   * Supervisor: Dr. Fariba Bahrami
+  
   </span>
 
 Technical and soft skills
@@ -55,6 +56,7 @@ Honors and awards
 * Member of National Foundation of Elites, Iran, 2010 - present
 * Ranked among the top 0.05% in the nationwide university entrance exam (300,000 candidates), Iran, 2011
 * Supported by and attended the National Organization of Exceptional Talents schools, Iran, 2004 - 2011
+
 </span>
 
 Experiences
