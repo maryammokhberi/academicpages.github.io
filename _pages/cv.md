@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
-  * Supervisor: Dr. Syed Ishtiaque Ahmed 
+#### * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
+####  * Supervisor: Dr. Syed Ishtiaque Ahmed 
 
 * M.A.Sc. in Biomedical Engineering, University of Toronto, Sept 2015 - Jan 2018
   * Supervisor: Dr. Tom Chau GPA: 3.93/4 
