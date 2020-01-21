@@ -13,6 +13,7 @@ redirect_from:
 Education
 ======
 <span style="font-family:Papyrus; font-size:4em;">
+  
 * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
   * Supervisor: Dr. Syed Ishtiaque Ahmed 
 
