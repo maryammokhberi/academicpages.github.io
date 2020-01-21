@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-*<span style="font-size:1em;"> Ph.D. in Computer Science, University of Toronto, Sept 2019 - present </span>
+* Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
   * Supervisor: Dr. Syed Ishtiaque Ahmed 
 
 * M.A.Sc. in Biomedical Engineering, University of Toronto, Sept 2015 - Jan 2018
