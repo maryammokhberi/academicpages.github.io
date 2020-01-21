@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-<span style="font-family:Papyrus; font-size:4em;">
+<span style="font-family:Papyrus; font-size:3em;">
   
 * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
   * Supervisor: Dr. Syed Ishtiaque Ahmed 
@@ -29,6 +29,8 @@ Education
 
 Technical and soft skills
 ======
+<span style="font-family:Papyrus; font-size:3em;">
+  
 * Computer languages
   * Python • • • • ◦  MATLAB • • • • ◦  R • • • ◦ ◦   C • • • ◦ ◦
 * Machine learning tools 
@@ -40,9 +42,12 @@ Technical and soft skills
 * Neuroscience & health IT
   * Experienced in brain data management & analysis platforms
   
+  </span>
   
 Honors and awards
 ======
+<span style="font-family:Papyrus; font-size:3em;">
+
 * Faculty of Arts and Science Recognition of Excellence Award, U of T, Sept 2019
   * (This award is offered to only one or two incoming PhD students in the Department of Computer Science at U of T who has demonstrated excellence in their academic and research endeavours)
 * National Foundation of Elites Scholarship, Iran, 2011 - 2015
@@ -50,7 +55,7 @@ Honors and awards
 * Member of National Foundation of Elites, Iran, 2010 - present
 * Ranked among the top 0.05% in the nationwide university entrance exam (300,000 candidates), Iran, 2011
 * Supported by and attended the National Organization of Exceptional Talents schools, Iran, 2004 - 2011
-
+</span>
 
 Experiences
 ======
