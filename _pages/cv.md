@@ -28,7 +28,7 @@ Education
 
 Technical and soft skills
 ======
-* Computer languages
+#### * Computer languages
   * Python • • • • ◦  MATLAB • • • • ◦  R • • • ◦ ◦   C • • • ◦ ◦
 * Machine learning tools 
   * SKlearn • • • • ◦   Numpy • • • • ◦   Matplotlib • • • • ◦
