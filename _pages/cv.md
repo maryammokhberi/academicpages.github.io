@@ -12,6 +12,7 @@ redirect_from:
 
 Education
 ======
+####
 * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
   * Supervisor: Dr. Syed Ishtiaque Ahmed 
 
@@ -22,7 +23,8 @@ Education
   * Supervisor: Dr. Tom Chau
 
 * B.Sc. in Electrical Engineering, University of Tehran (Iran), Sept 2011 - Aug 2015
-  * Supervisor: Dr. Fariba Bahrami GPA: 16.29/20
+  * Supervisor: Dr. Fariba Bahrami
+####
 
 Technical and soft skills
 ======
