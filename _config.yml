@@ -245,15 +245,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _reading_list
-  - scope:
-      path: ""
-      type: reading_list
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
