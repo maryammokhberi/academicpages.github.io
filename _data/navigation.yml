@@ -9,12 +9,17 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
   
-  - title: "CV"
-    url: /cv/
-#  - title: "Significant Projects"
-#   url: /SignificantProjects/
-        
+- title: "CV"
+   url: /cv/
+
+- title: "Projects"
+   url: /projects/
+   
+- title: "Reading List"        
+  url: /reading_list/
+
 #  - title: "Blog Posts"
 #   url: /year-archive/
-#  - title: "Guide"
-#    url: /markdown/
+
+#  - title: "On-going Tasks"
+#    url: /tasks/
