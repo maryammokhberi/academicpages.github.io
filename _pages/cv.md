@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-####
+<span style="font-family:Papyrus; font-size:4em;">
 * Ph.D. in Computer Science, University of Toronto, Sept 2019 - present
   * Supervisor: Dr. Syed Ishtiaque Ahmed 
 
@@ -24,11 +24,11 @@ Education
 
 * B.Sc. in Electrical Engineering, University of Tehran (Iran), Sept 2011 - Aug 2015
   * Supervisor: Dr. Fariba Bahrami
-####
+  </span>
 
 Technical and soft skills
 ======
-#### * Computer languages
+* Computer languages
   * Python • • • • ◦  MATLAB • • • • ◦  R • • • ◦ ◦   C • • • ◦ ◦
 * Machine learning tools 
   * SKlearn • • • • ◦   Numpy • • • • ◦   Matplotlib • • • • ◦
