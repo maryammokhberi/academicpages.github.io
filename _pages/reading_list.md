@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Reading List"
 permalink: /reading
 -list/
 author_profile: true
