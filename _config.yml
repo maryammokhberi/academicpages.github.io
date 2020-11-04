@@ -192,6 +192,15 @@ collections:
 
 # Defaults
 defaults:
+ # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _posts
   - scope:
       path: ""
