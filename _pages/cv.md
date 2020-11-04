@@ -77,9 +77,8 @@ Experiences
 * Tutor and teaching assistant in Computer and Society, Bioengineering, Calculus, and Physics, 2010 - present
   * University of Toronto, University of Tehran, and NODET high schools, Iran and Canada
 
-Publications
-======
-  * The Efficacy of Meditation on the Brain-Computer Interface in the Pediatric Context, M. Mokhberi and T. Chau, In preparation
+//Publications
+//======
 
 Leadership and extra-curricular activities
 ====== 
