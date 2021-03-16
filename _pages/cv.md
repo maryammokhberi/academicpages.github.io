@@ -62,10 +62,10 @@ Experiences
   * Designed an audio-tactile brain-computer interface (BCI) which could help individuals with disability control the environment solely by thinking using the brainwaves
   * Designed an experiment to confirm the positive effect of mindfulness meditation on BCI performance
   * Organized more than 30 sessions of data collection with children, acquired physiological data, and analyzed brain electrical signals using supervised machine learning
-* Co-founder and marketing co-director at Bahar Charity Group, Aug 2016 - present, Toronto,CA
-  * Involved in organizing more than 5 fund-raising events and campaigns with the aim of helping children in need
-  * Developed an interactive website and managing online marketing through social media
-  * Leading monthly meet-ups in which modern approaches toward social problems are read and discussed (e.g. scientific papers on poverty pattern analysis, marketing methods for charity groups, successful social entrepreneurship models, etc.)
+//* Co-founder and marketing co-director at Bahar Charity Group, Aug 2016 - present, Toronto,CA
+//  * Involved in organizing more than 5 fund-raising events and campaigns with the aim of helping children in need
+//  * Developed an interactive website and managing online marketing through social media
+//  * Leading monthly meet-ups in which modern approaches toward social problems are read and discussed (e.g. scientific papers on poverty pattern analysis, //marketing methods for charity groups, successful social entrepreneurship models, etc.)
 * Innovation co-director at Engineering World Health Branch, Jul 2016 - Aug 2017, University of Toronto
   * Involved in event organization (EWH symposium, case competition, etc.).
 * Research intern, Summer 2014, Bloorview Research Institute, Holland Bloorview Kids Rehabilitaion Hospital, Toronto
@@ -88,8 +88,8 @@ Leadership and extra-curricular activities
     * University of Toronto, Sept 2019 - present
 * Volunteer work at Imam Ali Relief Sociey (NGO)
   * Iran & Canada, Sept 2014 - present
-* Volunteer work at Bahar Charity Group
-    *Toronto, Aug 2016 - present
+//* Volunteer work at Bahar Charity Group
+//    *Toronto, Aug 2016 - present
 * Student representative of class of 2015
   * ECE department, University of Tehran, Sept 2012- Aug 2014
 * Editorial board of Derang magazine (the official magazine of student union)
