@@ -1,8 +1,7 @@
 # main links links
 main:
-
-- title: "CV"
-   url: /cv.md/
+  - title: "CV"
+    url: /cv.md/
 
 #- title: "Projects"
 #   url: /projects/
