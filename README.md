@@ -1,1 +1,1 @@
-This is the code for my personal website which is at maryammokhberi.github.io . I have forked this repo from [academicpages].
+I had previously forked a website template from the repo academicpages.github.io to build a github page as my personal website. But in the current version I'm just redirecting my github.io page to another domain. 
